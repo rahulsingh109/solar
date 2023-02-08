@@ -12,6 +12,7 @@ body {
     -ms-overflow-style: none;
     overflow: hidden;
  overflow-y: scroll;
+    width:100%;
 
 }
 
